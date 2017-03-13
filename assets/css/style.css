@@ -1,0 +1,60 @@
+
+
+.bar{
+  font-size: 24;
+  border-color: #cccccc;
+  background-color: #ffffff;
+  padding-top:15% 15%;
+  margin-bottom: 20px;
+  height: 60px;
+
+}
+
+
+#name{
+  background-color: #4aaaa5;
+  float: left;
+  color: white;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 36px;
+  padding: 5px;
+  text-align: right
+
+}
+
+.links{
+  float: right;
+
+}
+
+
+img {
+
+    padding: 5px;
+    width: 150px;
+    object-position: bottom;
+}
+
+.aside {  
+     width:px;
+       float: right;
+       text-align:left;
+       height: px;
+       color: ;
+       background-color: #;
+       padding-top: px;
+       padding-bottom: px;}
+
+.self {
+   background-color: ;
+  float: left;
+  color: ;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 36px;
+  padding: 5px;
+  display:;
+  overflow: 
+  clear
+  text-align
+}
+
